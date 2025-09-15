@@ -52,3 +52,5 @@ Here is a sample interaction with the program:
     Elige: Depositar(D), Retirar(R) o Salir(S)
     S
     Que tenga un buen dia!!!
+
+"The code in this repository is based on lessons from Federico Garay's course."
